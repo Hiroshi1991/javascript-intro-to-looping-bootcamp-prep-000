@@ -9,7 +9,7 @@ function forLoop(array) {
   return array;
 }
 
-function whileLoop(num) {
+function whileLoop(n) {
   while (n > 0) {
     console.log(--n);
   }
@@ -28,3 +28,6 @@ function doWhileLoop(array) {
   } while (array.length > 0 && incrementVariable());
   return array;
 }
+
+function whileLoop(n)
+while 
