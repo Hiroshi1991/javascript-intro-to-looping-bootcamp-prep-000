@@ -30,4 +30,5 @@ function doWhileLoop(array) {
 }
 
 function whileLoop(n)
-while 
+while (n > 0) {
+    console.log(++num);
